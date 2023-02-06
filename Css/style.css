@@ -132,7 +132,7 @@ header{
     transform: scale(1.1);
 }
 
-.main a:hover img{
+.main a:hover{
     color: var(--main-color);
     text-decoration: none;
 }
